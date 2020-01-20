@@ -1,0 +1,28 @@
+{
+	"email":"mk@gmail.com",
+	"firtName":"manish",
+	"lastName":"k",
+	"mobile" :[565655665,898988],
+	"address" : {
+			"flatNo":"1212",
+			"city":"pune",
+			"state":"maha",
+			"country" :"india"
+		},
+	"primaryskilss":["c++","java","python"],
+	"secondaryskilss":["shell","ML","AI"],
+	"education":[
+		{
+			"course":"btech",
+			"marks":78
+		},
+		
+		{
+			"course":"mtech",
+			"marks":80
+		}
+	
+	]
+	
+
+}
